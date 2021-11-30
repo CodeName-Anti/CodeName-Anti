@@ -1,16 +1,15 @@
-# github-profile-summary-cards-example
+<h1 align="center">Hi 👋, I'm JNNJ</h1>
+<h3 align="center">Developer from Germany</h3>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeName-Anti&label=Profile%20views&color=0e75b6&style=onedark" alt="CodeName-Anti" /> </p>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeName-Anti&theme=onedark" alt="CodeName-Anti" /></a> </p>
 
-```To create your profile README you need to name the repo as your username```
+- 🔭 I’m currently working on stuff...
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank">  </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CodeName-Anti/CodeName-Anti/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/CodeName-Anti/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CodeName-Anti/CodeName-Anti/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/CodeName-Anti/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CodeName-Anti/CodeName-Anti/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/CodeName-Anti/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CodeName-Anti/CodeName-Anti/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/CodeName-Anti/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CodeName-Anti/CodeName-Anti/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/CodeName-Anti/github-profile-summary-cards)
