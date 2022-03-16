@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeName-Anti&label=Profile%20views&color=0e75b6&style=onedark" alt="CodeName-Anti" /> </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O178FHD)
+
 - 🔭 I’m currently working on stuff...
 
 - 🌱 I’m currently learning **C++** and [**Cheat Engine**](https://github.com/cheat-engine/cheat-engine).
