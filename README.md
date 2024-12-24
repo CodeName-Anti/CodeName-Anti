@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on stuff...
 
-- 🌱 I’m currently learning **fullstack web development**
+- 🌱 I’m currently learning **Rust**.
 
 - ⚡ Fun fact **I really like the letter h**.
 
