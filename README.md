@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on stuff...
 
-- 🌱 I’m currently learning **Rust**.
+- 🌱 I’m currently learning **Tauri & Svelte**.
 
 - ⚡ Fun fact **I really like the letter h**.
 
