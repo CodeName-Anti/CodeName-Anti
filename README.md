@@ -5,9 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=CodeName-Anti&label=Profile%20views&color=0e75b6&style=onedark" alt="CodeName-Anti" />
 </p>
 
-- 🔭 I’m currently working on stuff...
-
-- 🌱 I’m currently learning **Tauri & Svelte**.
+- 🌱 I’m currently learning about **C++ & embedded systems**.
 
 - ⚡ Fun fact **I really like the letter h**.
 
