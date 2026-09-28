@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **C++ & embedded systems**.
 
-- ⚡ Fun fact **I really like the letter h**.
+- ⚡ Fun fact **I really hate the letter h**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
